@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @karmicharsh
-- 👀 I’m interested in web development ...
-- 🌱 I’m currently learning  c/c++...
-- 💞️ I’m looking to collaborate on various projects on c/c++ interesting projects  ..
-- 📫 How to reach me ...
+# 👋 Hi, I'm Karmicharsh!
 
-<!---
-karmicharsh/karmicharsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I'm passionate about web development and all things related to software development. 💻
+
+🌟 **Skills:**
+- Frontend Development 🌐
+- Flutter Development 📱
+
+🚀 **Looking for Opportunities:**
+- Open to work as a Web Frontend Developer 🌐
+- Open to work as a Flutter Developer 📱
+
+Feel free to connect with me and explore my projects below! Let's build something awesome together! 😄
 --->
